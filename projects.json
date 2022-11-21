@@ -1,8 +1,6 @@
 [
   {
-    "nom" : "TESTee"
-  },
-  {
-    "nom" : "TESTE 2" 
+    "GestionProjects" : "1.0",
+    "ErrorMessage" : "Une nouvelle version du logiciel est disponible ! contactez le vendeur s'il vous plaît"
   }
 ]
