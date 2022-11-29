@@ -1,10 +1,28 @@
 [
   {
-    "GestionProjects" : "1.0",
-    "ErrorMessage" : "Une nouvelle version du logiciel est disponible ! contactez le vendeur s'il vous plaît"
+    "id" : 1,
+    "Nom" : "Prestige Bike",
+    "Version" : "1.0",
+    "idLogo" : "prestigebike",
+    "technologies" : [
+      "html",
+      "css",
+      "javascript",
+      "react"
+    ],
+    "rating" : 5
   },
   {
-    "GestionProjects2" : "1.0",
-    "ErrorMessage" : "Une nouvelle version du logiciel est disponible ! contactez le vendeur s'il vous plaît"
+    "id" : 2,
+    "Nom" : "Prestige Bike",
+    "Version" : "1.0",
+    "idLogo" : "prestigebike",
+    "technologies" : [
+      "html",
+      "css",
+      "javascript",
+      "react"
+    ],
+    "rating" : 4
   }
 ]
