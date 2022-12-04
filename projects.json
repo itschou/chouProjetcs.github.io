@@ -2,7 +2,7 @@
   {
     "id" : 1,
     "Nom" : "Prestige Bike",
-    "Role": "Font End",
+    "Role": "Front End",
     "Version" : "1.0",
     "idLogo" : "prestigebike",
     "technologies" : [
@@ -17,7 +17,7 @@
     "id" : 2,
     "Nom" : "Prestige Bike",
     "Version" : "1.0",
-    "Role": "Font End",
+    "Role": "Front End",
     "idLogo" : "prestigebike",
     "technologies" : [
       "html",
