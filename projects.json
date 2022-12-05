@@ -2,6 +2,7 @@
   {
     "id" : 1,
     "Nom" : "Prestige Bike",
+    "company" : true,
     "Role": "Front End",
     "Version" : "1.0",
     "idLogo" : "prestigebike",
@@ -32,6 +33,7 @@
   {
     "id" : 2,
     "Nom" : "Prestige Bike",
+    "company" : false,
     "Version" : "1.0",
     "Role": "Front End",
     "idLogo" : "prestigebike",
