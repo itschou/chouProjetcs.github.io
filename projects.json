@@ -6,10 +6,26 @@
     "Version" : "1.0",
     "idLogo" : "prestigebike",
     "technologies" : [
-      "html",
-      "css",
-      "javascript",
-      "react"
+      {
+        "name" : "html",
+        "icon" : "html",
+        "type" : "brands"
+      },
+      {
+        "name" : "css",
+        "icon" : "css",
+        "type" : "brands"
+      },
+      {
+        "name" : "javascript",
+        "icon" : "js",
+        "type" : "brands"
+      },
+      {
+        "name" : "react",
+        "icon" : "react",
+        "type" : "brands"
+      }
     ],
     "rating" : 5
   },
@@ -20,10 +36,26 @@
     "Role": "Front End",
     "idLogo" : "prestigebike",
     "technologies" : [
-      "html",
-      "css",
-      "javascript",
-      "react"
+      {
+        "name" : "html",
+        "icon" : "html",
+        "type" : "brands"
+      },
+      {
+        "name" : "css",
+        "icon" : "css",
+        "type" : "brands"
+      },
+      {
+        "name" : "javascript",
+        "icon" : "js",
+        "type" : "brands"
+      },
+      {
+        "name" : "react",
+        "icon" : "react",
+        "type" : "brands"
+      }
     ],
     "rating" : 4
   }
