@@ -6,6 +6,7 @@
     "Role": "Front End",
     "Version" : "1.0",
     "idLogo" : "prestigebike",
+    "link" : "https://www.google.com",
     "technologies" : [
       {
         "name" : "html",
@@ -37,6 +38,7 @@
     "Version" : "1.0",
     "Role": "Front End",
     "idLogo" : "prestigebike",
+    "link" : "https://www.google.com",
     "technologies" : [
       {
         "name" : "html",
