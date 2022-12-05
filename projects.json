@@ -8,12 +8,12 @@
     "technologies" : [
       {
         "name" : "html",
-        "icon" : "html",
+        "icon" : "html5",
         "type" : "brands"
       },
       {
         "name" : "css",
-        "icon" : "css",
+        "icon" : "css3-alt",
         "type" : "brands"
       },
       {
@@ -38,12 +38,12 @@
     "technologies" : [
       {
         "name" : "html",
-        "icon" : "html",
+        "icon" : "html5",
         "type" : "brands"
       },
       {
         "name" : "css",
-        "icon" : "css",
+        "icon" : "css3-alt",
         "type" : "brands"
       },
       {
